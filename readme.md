@@ -2,7 +2,9 @@
 <img src="https://raw.githubusercontent.com/jabedzaman/spotiloader/main/assets/icon.png" width="140" height="140" margin="0 auto" />
       <h1>Spotiloader</h1>
     <p>
-      <b>React Native Multiplatform</b> Music Downloader ,supports <b>Spotify, YouTube & more soon</b>
+      <b> React Native Multiplatform</b> Music Downloader ,supports <b>Spotify, YouTube & more soon</b>
+      
+[中文说明](https://github.com/TC999/spotiloader/blob/main/README_zh_CN.md)
   </p>
 </div>
 
@@ -20,7 +22,7 @@ Even Keyword search is supported, just search for the song you want to download 
 
 ### 💻 Install 
 
-| Platform | Download | Status |
+| Platform | 下载 | 状态 |
 |----------|----------|--------|
 | Android    |[![Download Button](https://img.shields.io/github/v/release/jabedzaman/spotiloader?color=7885FF&label=Android-Apk&logo=android&style=for-the-badge)](https://github.com/jabedzaman/spotiloader/releases)| ✅ Stable | 
 
