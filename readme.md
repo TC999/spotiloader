@@ -4,7 +4,7 @@
     <p>
       <b> React Native Multiplatform</b> Music Downloader ,supports <b>Spotify, YouTube & more soon</b>
       
-[中文说明](https://github.com/TC999/spotiloader/blob/main/README_zh_CN.md)
+[中文说明](README_zh_CN.md)
   </p>
 </div>
 
@@ -48,8 +48,8 @@ COOL!! Your contributions will help make SpotiLoader more accessible to users ar
 Here's how you can contribute:
 
 1. Clone the SpotiLoader repository.
-2. Create a new file with `YOUR_LANGUAGE_CODE.config.js` in `/trasnslations`
-3. Translate the relevant strings in the `/translations/en.config.js` in `YOUR_LANGUAGE_CODE.config.js`
+2. Create a new file with `YOUR_LANGUAGE_CODE.config.js` 在 `/trasnslations`
+3. Translate the relevant strings in the `/translations/en.config.js` 在 `YOUR_LANGUAGE_CODE.config.js`
 4. Submit a pull request with your changes.
 
 
